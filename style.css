@@ -116,7 +116,22 @@ footer i{
     color: white;
     font-size: 20px;
 }
-
+.d-md-block{
+    color: black;
+}
+.fa-angles-left{
+    color: black;
+}
+.fa-angles-right{
+    color: black;
+}
+.certificates{
+    margin: 40px auto;
+}
+.certificates h3{
+    color: white;
+    text-align: center;
+}
 /* Mobile Version */
 @media screen and (max-width:850px) {
     .main{
