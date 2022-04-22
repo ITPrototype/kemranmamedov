@@ -87,6 +87,7 @@ body{
 }
 .Proektlar ul{
     list-style: none;
+    padding-left:20px;
 }
 .Proektlar ul li{
     width: 250px;
