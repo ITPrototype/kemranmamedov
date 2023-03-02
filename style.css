@@ -255,6 +255,7 @@ body {
     font-size: 30px;
     font-weight: 500;
     text-align: center;
+    width:100%;
   }
   .right-side {
     padding-left: 20px;
