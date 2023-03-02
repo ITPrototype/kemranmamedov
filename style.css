@@ -264,23 +264,6 @@ body {
     text-align: center;
     width: 100%;
   }
-  .Proektlar__list-item_link {
-    animation: proekt-two 2s infinite linear;
-  }
-  @keyframes proekt-two {
-    0% {
-      color: honeydew;
-    }
-    30% {
-      color: rgb(81, 8, 199);
-    }
-    60% {
-      color: rgb(252, 21, 21);
-    }
-    100% {
-      color: rgb(82, 252, 82);
-    }
-  }
   .right-side__largeTxt {
     font-family: "Spline Sans", sans-serif;
     color: rgb(112, 108, 108);
